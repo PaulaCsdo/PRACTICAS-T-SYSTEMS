@@ -4,4 +4,6 @@ Git checkout -b nombre_rama
 Git status
 Git add archivo_modificado
 Git commit -m
-Gt push
+Git push
+
+COMMIT Y PUSH QUE VA A SER ELMINADO
